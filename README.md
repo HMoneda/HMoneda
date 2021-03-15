@@ -1,5 +1,5 @@
 # Hello There!
-I'm currently a student at <a href="dlsu.edu.ph">De La Salle University</a> taking my Bachelor's degree in Computer Science Major in Software Technology.
+I'm currently a student at <a href="https://www.dlsu.edu.ph/">De La Salle University</a> taking my Bachelor's degree in Computer Science Major in Software Technology.
 
 
 
